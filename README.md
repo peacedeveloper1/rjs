@@ -14,6 +14,17 @@ It removes noise, reduces boilerplate, and brings a fast, reactive flow to every
 
 RJS has **no runtime**, **no dependencies**, and runs anywhere JavaScript runs.
 
+
+---
+
+# 🌐 Live Demo
+
+Try RJS instantly in your browser:
+
+👉 **[https://peacedeveloper1.github.io/rjs/rjs-demo-table.html](https://peacedeveloper1.github.io/rjs/rjs-demo-table.html)**
+
+No install required — just click and run.
+
 ---
 
 ## ✨ Features
